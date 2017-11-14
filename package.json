@@ -1,0 +1,19 @@
+{
+    "name": "y",
+    "version": "1.0.0",
+    "description": "node and sql app",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["MySQL", "Node"],
+    "license": "ISC",
+  
+    "dependencies": {
+        "devtool": "^2.2.0",
+        "inquirer": "^1.1.3",
+        "mysql": "^2.11.1",
+        "prompt": "^1.0.0",
+        "sql": "^0.71.0"
+    }
+}
